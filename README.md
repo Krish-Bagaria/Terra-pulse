@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TerraPulse Frontend
 
 AI-powered real estate intelligence platform providing accurate property price predictions, ROI analysis, and market insights for the Indian real estate market.
@@ -123,3 +124,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Email: info@terrapulse.com
 - Website: https://terrapulse.com
+=======
+# Terra-pulse
+>>>>>>> f5841ea6fc6ecb4a29f935752512125c8a6ed4e4
